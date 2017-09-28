@@ -22,5 +22,4 @@ class TarifSerializer(serializers.ModelSerializer):
         class Meta:
                 model = Tarif
                 fields =('societe','montant_debut','montant_fin','prix','est_internationnal')
-                
-                
+

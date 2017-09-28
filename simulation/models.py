@@ -29,5 +29,5 @@ class Recherche(models.Model):
     pass
 
     
-    
+)    
     
